@@ -34,8 +34,8 @@ func main() {
 
 	// var user User
 
-	// user.Name = "Raj"
-	// user.Age = 16
+	// user.Name = "Damn"
+	// user.Age = 41
 
 	// data, _ := bson.Marshal(user)
 
